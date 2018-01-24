@@ -2,6 +2,7 @@
 int main(void)
 {
 	int a,b,i;
+	printf("intervl display of odd numbers");
 	scanf("%d",&a);
 	scanf("%d",&b);
 	for(i=a;i<=b;i++)
